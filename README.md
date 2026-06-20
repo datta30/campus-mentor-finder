@@ -1,6 +1,14 @@
 # Campus Mentor Finder
 
-Campus Mentor Finder is a full-stack web application designed for student-to-mentor connection inside university communities. Students (mentees) can discover mentors (seniors, alumni, or peer advisors) based on domain fields, experience, college, language, availability, and alignment.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0edcb60d-c552-403d-b874-1eb8572abb06/deploy-status)](https://app.netlify.com/projects/campusmentorfinder/deploys)
+
+**Live Demo**: https://campusmentorfinder.netlify.app/
+
+**Made for**: [Google Build with AI Bootcamp](https://events.google.dev/buildwithaibootcamp)
+
+---
+
+Campus Mentor Finder is a full-stack web application designed for student-to-mentor connection inside university communities. Students (mentees) can discover mentors (seniors, alumni, or peer advisors) through smart matching, connecting with experienced mentors based on shared interests, expertise, and availability.
 
 ## 🚀 Features
 
@@ -8,7 +16,7 @@ Campus Mentor Finder is a full-stack web application designed for student-to-men
 - **Simulated Auth Service**: Fully working cookie-backed login, logout, and registration flows without requiring third-party credentials.
 - **Onboarding Flow**: Specialized forms for Mentors and Mentees to specify backgrounds, skills, availability, and interests.
 - **Mentor Directory**: Real-time filtering by college preference, expertise domains, availability hours, bookmark statuses, and sorting preferences.
-- **Match Compatibility System**: Server-side scoring engine that evaluates overlap across college backgrounds, language fluency, domain fields, specific skill sets, and schedules. Provides custom written explanations for recommendations.
+- **Match Compatibility System**: Server-side scoring engine that evaluates overlap across college backgrounds, language fluency, domain fields, specific skill sets, and schedules. Provides custom recommendation rankings.
 - **Request Manager**: Send direct mentorship request invitations. Mentors can view incoming entries, toggle acceptance/rejection, and update mentee dashboard feeds instantly.
 - **Dashboard Hubs**: Custom layouts for:
   - **Mentees**: View recommended compatible mentors, bookmarks, and request invitation statuses.
@@ -92,4 +100,3 @@ Use these pre-registered emails to inspect and test various user viewpoints (no 
 - **System Administrator (Admin)**: `admin@campusmentor.com`
 
 ---
-
