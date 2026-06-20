@@ -6,11 +6,6 @@
 
 **Made for**: [Build with AI Bootcamp](https://promptwars.in/bootcamp.html)
 
----
-
-![Build with AI Bootcamp Poster](./poster.png)
-
----
 
 Campus Mentor Finder is a full-stack web application designed for student-to-mentor connection inside university communities. Students (mentees) can discover mentors (seniors, alumni, or peer advisors) through smart matching, connecting with experienced mentors based on shared interests, expertise, and availability.
 
