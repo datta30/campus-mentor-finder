@@ -93,10 +93,3 @@ Use these pre-registered emails to inspect and test various user viewpoints (no 
 
 ---
 
-## ☁️ Deployment Instructions
-
-### Deploying to Vercel
-1. Ensure all local changes are committed and pushed to a GitHub repository.
-2. Go to the [Vercel Dashboard](https://vercel.com/) and click **Add New Project**.
-3. Select your GitHub repository.
-4. Click **Deploy**. (No environment variables or secrets are strictly required upfront; the project functions with mock storage automatically, enabling immediate preview).
