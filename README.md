@@ -4,7 +4,11 @@
 
 **Live Demo**: https://campusmentorfinder.netlify.app/
 
-**Made for**: [Google Build with AI Bootcamp](https://events.google.dev/buildwithaibootcamp)
+**Made for**: [Build with AI Bootcamp](https://promptwars.in/bootcamp.html)
+
+---
+
+![Build with AI Bootcamp Poster](./poster.png)
 
 ---
 
